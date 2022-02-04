@@ -2,6 +2,7 @@
 ## Technologies:
  - HTML
  - CSS
+ - Java Script
  - Normalize
  - JQuery
  - Fancybox (JQuery)
